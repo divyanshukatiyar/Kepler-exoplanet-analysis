@@ -1,1 +1,2 @@
-# keppler_exoplanet_analysis
+# Kepler Exoplanet Analysis
+The data for this project has been acquired from Kaggle competitions (https://www.kaggle.com/nasa/kepler-exoplanet-search-results) which specifies the objects and their characterstics as perceived by the Kepler space telescope whether the objects are exoplanets or not. The data contains a list of objects, a list of confidence scores which tell the confidence level of an object for being a potential candidate or a false positive, a list containing period of transits, duration of observation, and intrinsic properties of the parent star and the object orbiting around.
