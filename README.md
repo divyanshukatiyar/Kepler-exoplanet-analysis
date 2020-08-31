@@ -13,3 +13,7 @@ The data for this project has been acquired from Kaggle competitions (https://ww
 4. Concatenated the object columns that were dropped earlier.
 5. Created a cleaned data file.
 6. Exploratory data analysis.
+
+### Plots
+The plots below show the number of false positive, candidates and confirmed objects in literature.  
+![in literature](\In_literature.png)
