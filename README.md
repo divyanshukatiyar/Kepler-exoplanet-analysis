@@ -5,7 +5,7 @@ The data for this project has been acquired from Kaggle competitions (https://ww
 **Python version** : 3.7.6  
 **Packages used** : pandas, missingno, scikit-learn, seaborn  
 **Reference** : https://exoplanetarchive.ipac.caltech.edu/docs/API_kepcandidate_columns.html  
-
+                https://www.youtube.com/channel/UCiT9RITQ9PW6BhXK0y2jaeg  
 ### Steps
 1. Looked out for the missing values in the raw data.
 2. Dropped the columns that were not necessary in the analysis.
