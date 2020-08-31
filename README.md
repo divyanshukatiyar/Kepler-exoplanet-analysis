@@ -16,4 +16,4 @@ The data for this project has been acquired from Kaggle competitions (https://ww
 
 ### Plots
 The plots below show the number of false positive, candidates and confirmed objects in literature.  
-![in literature](\In_literature.png)
+![in literature](In_literature.png)
