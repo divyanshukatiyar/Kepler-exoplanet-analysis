@@ -15,5 +15,5 @@ The data for this project has been acquired from Kaggle competitions (https://ww
 6. Exploratory data analysis.
 
 ### Plots
-The plots below show the number of false positive, candidates and confirmed objects in literature.  
-![in literature](In_literature.png)
+The plots below show the number of false positive, candidates and confirmed objects in literature (1st plot) and using observations (2nd plot).  
+![in literature](In_literature.png) ![in observ](In_observation.png)
