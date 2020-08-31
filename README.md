@@ -16,6 +16,10 @@ The data for this project has been acquired from Kaggle competitions (https://ww
 
 ### Plots
 The plots below show the number of false positive, candidates and confirmed objects in literature (1st plot) and using observations (2nd plot).  
-![in literature](In_literature.png) ![in observ](In_observation.png)
+![in literature](In_literature.png) ![in observ](In_observation.png)  
 The confidence score plot below shows that there is a very low confidence for an object being a false positive, which means that most of the objects should probably be planets.  
-![confidence](confidence_score.png)
+![confidence](confidence_score.png)  
+The heat map shows the correlation of certain columns and how can these columns be used to derive some characteristics of the planets (for example - positive correlation between star temperature and temperature of the planet).  
+![heat map](correlation.png)  
+The distribution of the radii of the planets (in Earth radii) falls mostly between 0 and 25. There are very few planets that are couple hundred times larger. The size of the parent stars fall between 0 and 25 (almost all).  
+![planet](prad_dist.png) ![star](srad_dist.png)  
