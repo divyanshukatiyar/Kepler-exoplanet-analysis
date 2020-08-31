@@ -17,3 +17,5 @@ The data for this project has been acquired from Kaggle competitions (https://ww
 ### Plots
 The plots below show the number of false positive, candidates and confirmed objects in literature (1st plot) and using observations (2nd plot).  
 ![in literature](In_literature.png) ![in observ](In_observation.png)
+The confidence score plot below shows that there is a very low confidence for an object being a false positive, which means that most of the objects should probably be planets.  
+![confidence](confidence_score.png)
