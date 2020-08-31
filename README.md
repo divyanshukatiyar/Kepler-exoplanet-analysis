@@ -23,3 +23,5 @@ The heat map shows the correlation of certain columns and how can these columns 
 ![heat map](correlation.png)  
 The distribution of the radii of the planets (in Earth radii) falls mostly between 0 and 25. There are very few planets that are couple hundred times larger. The size of the parent stars fall between 0 and 25 (almost all).  
 ![planet](prad_dist.png) ![star](srad_dist.png)  
+The equilibrium temperature of the planets show some sort of normal distribution most of which fall between 0 to 2000 kelvins. The effective temperature of the parent star mainly falls approximately between 4000 to 8000 kelvins.  
+![ptemp](ptemp_dist.png) ![stemp](star_temp_dist.png)  
