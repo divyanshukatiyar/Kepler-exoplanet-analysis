@@ -31,3 +31,10 @@ For building the model, I chose the necessary columns that would be used to get 
 * **Multiple linear regression** - uses several explanatory variables to predict the outcome of a response variable.  
 * **Lasso regression** - uses shrinkage. Shrinkage is where data values are shrunk towards a central point, like the mean.  
 * **Random forest** - operates by constructing several decision trees during training time and outputting the mean of the classes as the prediction of all the trees.  
+
+## Model performance
+Random forest regressor happened to be the best estimator on test and validation sets. Below are the mean absolute errors for all the three models:  
+* **Linear regression** : MAE = 0.125  
+* **Lasso** : MAE = 0.308  
+* **Random forest** : MAE = 0.084  
+Lasso regression generally does not work that bad. However, for this set of data it proved to be the worst.  
