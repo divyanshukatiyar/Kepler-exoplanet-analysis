@@ -25,3 +25,9 @@ The distribution of the radii of the planets (in Earth radii) falls mostly betwe
 ![planet](prad_dist.png) ![star](srad_dist.png)  
 The equilibrium temperature of the planets show some sort of normal distribution most of which fall between 0 to 2000 kelvins. The effective temperature of the parent star mainly falls approximately between 4000 to 8000 kelvins.  
 ![ptemp](ptemp_dist.png) ![stemp](star_temp_dist.png)  
+
+## Model building
+For building the model, I chose the necessary columns that would be used to get score predictions and created dummy variables using these columns. Then I splitted the data into training data and test data with test size of 50%. Since mean absolute error (MAE) gives the insight to what estimator to use, I tried three different models:  
+* **Multiple linear regression** - uses several explanatory variables to predict the outcome of a response variable.  
+* **Lasso regression** - uses shrinkage. Shrinkage is where data values are shrunk towards a central point, like the mean.  
+* **Random forest** - operates by constructing several decision trees during training time and outputting the mean of the classes as the prediction of all the trees.  
